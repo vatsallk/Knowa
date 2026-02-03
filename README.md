@@ -38,6 +38,6 @@ Knowa is a Slack-first knowledge assistant that turns your organization’s onbo
 ## Impact
 - **Saves time for managers:** Offloads repetitive onboarding Q&A so leaders can focus on high-value work.  
 - **Makes onboarding easy:** New hires get instant, accurate answers with context and sources.  
-- **Always available:** Employees can ask questions anytime in Slack and get reliable, organization-specific responses.
+- **Always available:** Employees can ask questions anytime in Slack and get reliable and organization-specific responses.
 
 ---
